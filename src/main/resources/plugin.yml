@@ -1,0 +1,5 @@
+name: ConsoleChat
+main: fr.jayrex.chatconsole.spigot.BungeeConsoleChat
+description: Chat de spigot dans bungeecord
+version: 1.0
+author: Jayrex_
